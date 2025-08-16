@@ -5,7 +5,6 @@
 <img src="https://img.icons8.com/color/344/css3.png" alt="css" width="50"/>
 <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="50"/>
 
----
 
 [**Link del sitio web** ✌](https://mariana-am-portafolio.netlify.app/)
 
